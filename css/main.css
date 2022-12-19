@@ -1,0 +1,31 @@
+aside{
+  list-style: circle;
+  width: 260px;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+}
+
+section{
+  width: 700px;
+}
+
+.content-in-rows{
+  display: flex;
+  flex-direction: row;
+}
+
+.out-style-list{
+  list-style: none;
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+  max-width: 960px;
+  min-width: 960px;
+  width: 960px;
+  margin: 0 auto;
+}
