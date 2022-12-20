@@ -8,6 +8,8 @@ header{
   justify-content: center;
 }
 
+
+
 section{
   width: 700px;
 }
@@ -19,11 +21,11 @@ section{
 
 .out-style-list{
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 main{
-  display: flex;
-  flex-direction: row;
   max-width: 960px;
   min-width: 960px;
   width: 960px;
